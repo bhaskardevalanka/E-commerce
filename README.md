@@ -9,14 +9,14 @@
 
 
 ### Content Description page
-![2](https://user-images.githubusercontent.com/122113889/221155371-faafe72a-487c-4d45-9169-9dcd3793b3ce.png)
+![2](https://user-images.githubusercontent.com/122113889/221156734-1994b13d-75db-4b4a-99e3-2d091307e874.png)
 
 
 
 ### Ordered List page
-![3](https://user-images.githubusercontent.com/122113889/221155535-b0abe1f0-1ac6-49de-ab56-b90ba210beb0.png)
+![3](https://user-images.githubusercontent.com/122113889/221156759-7b5a0d4a-1104-4f80-941a-eb56844263e2.png)
 
 
 
 ### Order confirm page
-![4](https://user-images.githubusercontent.com/122113889/221155639-e254b1eb-5985-45c0-b907-a9c058702e7a.png)
+![4](https://user-images.githubusercontent.com/122113889/221156783-7511c3fc-3078-4a13-9fca-d86b789d6a16.png)
